@@ -1,0 +1,87 @@
+aid: brilliant-org
+name: Brilliant
+description: >-
+  Brilliant is an online learning platform for interactive STEM education,
+  covering mathematics, computer science, data, and science. Headquartered
+  in San Francisco and used by over ten million learners worldwide,
+  Brilliant pairs guided, problem-first lessons with adaptive practice that
+  blends classic intelligent tutoring systems, machine-learning recommender
+  systems, and natural-language conversations. The platform is delivered
+  through brilliant.org and native iOS and Android apps, with a freemium
+  model and a Brilliant Premium subscription that unlocks the full course
+  catalog, including expanding AI-powered features such as personalized
+  tutoring conversations and on-the-fly generation of interactive content.
+  Brilliant operates as a direct-to-consumer subscription business with an
+  educator program for classroom access; it does not publish a public
+  developer API, SDK, or partner integration program, and the
+  `github.com/brilliant` org on GitHub is an unrelated namespace of
+  personal projects rather than an official Brilliant presence.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Learning
+  - Online Learning
+  - Education
+  - STEM
+  - Mathematics
+  - Computer Science
+  - Data Science
+  - Science
+  - Interactive Learning
+  - Adaptive Learning
+  - Intelligent Tutoring
+  - AI
+  - Edtech
+  - Consumer Subscription
+  - Mobile Learning
+url: https://raw.githubusercontent.com/api-evangelist/brilliant-org/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://brilliant.org
+  - type: Courses
+    url: https://brilliant.org/courses/
+  - type: Pricing
+    url: https://brilliant.org/subscribe/
+  - type: Gift
+    url: https://brilliant.org/gift-premium/
+  - type: Educators
+    url: https://brilliant.org/educators/
+  - type: About
+    url: https://brilliant.org/about/
+  - type: Careers
+    url: https://brilliant.org/careers/
+  - type: HelpCenter
+    url: https://help.brilliant.org/en/
+  - type: Help
+    url: https://brilliant.org/help/
+  - type: Wiki
+    url: https://brilliant.org/wiki/
+  - type: Blog
+    url: https://blog.brilliant.org/
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/brilliant-learn-by-doing/id913335252
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=org.brilliant.android
+  - type: TermsOfService
+    url: https://brilliant.org/terms-of-use/
+  - type: PrivacyPolicy
+    url: https://brilliant.org/privacy/
+  - type: CCPAPolicy
+    url: https://brilliant.org/ccpa-policy/
+  - type: Twitter
+    url: https://twitter.com/brilliantorg
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brilliant-org
+  - type: Facebook
+    url: https://www.facebook.com/brilliantorg
+  - type: Instagram
+    url: https://www.instagram.com/brilliantorg/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
