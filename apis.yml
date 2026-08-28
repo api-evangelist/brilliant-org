@@ -11,6 +11,17 @@ description: Brilliant is an online learning platform for interactive STEM educa
   access; it does not publish a public developer API, SDK, or partner integration program, and the `github.com/brilliant`
   org on GitHub is an unrelated namespace of personal projects rather than an official Brilliant presence.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
