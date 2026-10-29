@@ -1,4 +1,4 @@
-# brilliant-org
+# Brilliant
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Brilliant — interactive STEM + AI learning (math, CS, data, science)
+Brilliant is an online learning platform for interactive STEM education, covering mathematics, computer science, data, and science. Headquartered in San Francisco and used by over ten million learners worldwide, Brilliant pairs guided, problem-first lessons with adaptive practice that blends classic intelligent tutoring systems, machine-learning recommender systems, and natural-language conversations. The platform is delivered through brilliant.org and native iOS and Android apps, with a freemium model and a Brilliant Premium subscription that unlocks the full course catalog, including expanding AI-powered features such as personalized tutoring conversations and on-the-fly generation of interactive content. Brilliant operates as a direct-to-consumer subscription business with an educator program for classroom access; it does not publish a public developer API, SDK, or partner integration program, and the `github.com/brilliant` org on GitHub is an unrelated namespace of personal projects rather than an official Brilliant presence.
+
+**Areas:** Learning · E-Learning · Education · STEM · Mathematics · Computer Science · Data Science · Science · Interactive Learning · Adaptive Learning · Intelligent Tutoring · Artificial Intelligence
+
+## Brilliant on APIs.io
+
+Everything profiled for Brilliant is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brilliant-org/](https://apis.io/providers/brilliant-org/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Brilliant Org Domain Security](https://apis.io/security/brilliant-org/brilliant-org-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brilliant.org)
+- [Pricing](https://brilliant.org/subscribe/)
+- [Blog](https://blog.brilliant.org/)
+- [Terms of service](https://brilliant.org/terms-of-use/)
+- [Privacy policy](https://brilliant.org/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 10.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brilliant-org/](https://apis.io/providers/brilliant-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Brilliant: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brilliant-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
